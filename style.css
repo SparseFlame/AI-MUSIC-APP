@@ -1,0 +1,31 @@
+.header{
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+    background-color: red;
+    color: blue
+}
+
+.note{
+    font-size: 20px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px salmon;
+}
+
+.button{
+    background-color: chocolate;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-radius: 100%;
+    padding-top: 30px;
+}
